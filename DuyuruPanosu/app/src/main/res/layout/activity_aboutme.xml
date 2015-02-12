@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffffff"
+    android:gravity="clip_horizontal|clip_vertical|fill"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="158dp"
+        android:layout_height="158dp"
+        android:id="@+id/bt_logo"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/gtu" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Alican ÖZER"
+        android:id="@+id/textView8"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Gebze Teknik Üniversitesi"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:baselineAligned="false"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/bt_facebook"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/facebook" />
+
+        <Button
+            android:id="@+id/bt_twitter"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/twitter" />
+
+        <Button
+            android:id="@+id/bt_linkedin"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/linkedin" />
+
+        <Button
+            android:id="@+id/bt_github"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/github" />
+
+        <Button
+            android:id="@+id/bt_google"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/google" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="05434064333"
+        android:id="@+id/textView10"
+        android:layout_weight="0.14"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:autoLink="phone"
+        android:clickable="true"
+        android:phoneNumber="true"
+        android:singleLine="false"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="alicanozer60@gmail.com"
+        android:id="@+id/textView12"
+        android:autoLink="email"
+        android:gravity="center"
+        android:layout_weight="0.08" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="www.alicanozer.com"
+        android:id="@+id/textView13"
+        android:layout_weight="0.09"
+        android:autoLink="web"
+        android:gravity="center" />
+
+</LinearLayout>
