@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\libs\apigee-android-2.0.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="37a7538e7ca4a81a9f7abb9d0a9a2a83d6c79685">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\apigee-android-2.0.14-76afa658f749d7d2356376881d8860b26924b52f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\classes-1e1bedf98d408a75ff3445fa8953b08a97d9b9c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\libs\StartAppInApp-2.4.13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8cd53902ba86c7cb7bd77918d28447a6e568f90c">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\StartAppInApp-2.4.13-d81564dfb9988531526489603ea6bce78d424c75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5fe1433eff3dd097d40b9c4037ebb2e70484aad5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-b139bb688213cb874c637f9c64ed28e65cf4a5d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\classes-48b6cd0cd641545de13a42bc7f0eaa3e643b372e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\classes-a9b086c19e0cb03ff9b2bfe9beb74b7dad3348d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\Can\AndroidStudioProjects\DuyuruPanosu\app\build\intermediates\pre-dexed\debug\gcm-68a3046b4aa718a3ba277f95cf4ea5545842dd5a.jar" />
+    </item>
+
+</items>
